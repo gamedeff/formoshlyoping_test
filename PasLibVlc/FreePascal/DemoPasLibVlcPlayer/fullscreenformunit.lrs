@@ -1,0 +1,9 @@
+{ This is an automatically generated lazarus resource file }
+
+LazarusResources.Add('TFullScreenForm','FORMDATA',[
+  'TPF0'#15'TFullScreenForm'#14'FullScreenForm'#4'Left'#3'T'#2#6'Height'#3#240#0
+  +#3'Top'#3#137#0#5'Width'#3'@'#1#11'BorderStyle'#7#6'bsNone'#7'Caption'#6#14
+  +'FullScreenForm'#10'KeyPreview'#9#8'OnCreate'#7#10'FormCreate'#10'OnKeyPress'
+  +#7#12'FormKeyPress'#13'ShowInTaskBar'#7#7'stNever'#10'LCLVersion'#6#8'1.0.14'
+  +'.0'#0#0
+]);

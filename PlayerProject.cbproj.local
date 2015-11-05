@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.558,H:\Sandbox\_github\gamedeff\formoshlyoping_test\Unit1.cpp=H:\Sandbox\_github\gamedeff\formoshlyoping_test\PlayerFrameUnit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.695,=H:\Sandbox\_github\gamedeff\formoshlyoping_test\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.746,H:\Sandbox\_github\gamedeff\formoshlyoping_test\PlayerProject_PCH.h=C:\Users\Fedor\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.882,H:\Sandbox\_github\gamedeff\formoshlyoping_test\PlayerWindowUnit.dfm=C:\Users\Fedor\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.176,=H:\Sandbox\_github\gamedeff\formoshlyoping_test\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.340,H:\Sandbox\_github\gamedeff\formoshlyoping_test\Unit2.cpp=H:\Sandbox\_github\gamedeff\formoshlyoping_test\PlayerAreaUnit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.882,H:\Sandbox\_github\gamedeff\formoshlyoping_test\PlayerWindowUnit.h=C:\Users\Fedor\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.558,H:\Sandbox\_github\gamedeff\formoshlyoping_test\Unit1.dfm=H:\Sandbox\_github\gamedeff\formoshlyoping_test\PlayerFrameUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.558,H:\Sandbox\_github\gamedeff\formoshlyoping_test\Unit1.h=H:\Sandbox\_github\gamedeff\formoshlyoping_test\PlayerFrameUnit.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.862,=C:\Users\Fedor\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.496,H:\Sandbox\_github\gamedeff\formoshlyoping_test\PlayerProject.cbproj=C:\Users\Fedor\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.778,=C:\Users\Fedor\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.340,H:\Sandbox\_github\gamedeff\formoshlyoping_test\Unit2.h=H:\Sandbox\_github\gamedeff\formoshlyoping_test\PlayerAreaUnit.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.340,H:\Sandbox\_github\gamedeff\formoshlyoping_test\Unit2.dfm=H:\Sandbox\_github\gamedeff\formoshlyoping_test\PlayerAreaUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.882,H:\Sandbox\_github\gamedeff\formoshlyoping_test\PlayerWindowUnit.cpp=C:\Users\Fedor\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

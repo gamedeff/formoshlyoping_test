@@ -1,0 +1,47 @@
+object PlayerAreaForm: TPlayerAreaForm
+  Left = 0
+  Top = 0
+  BorderIcons = []
+  BorderStyle = bsNone
+  Caption = 'PlayerAreaForm'
+  ClientHeight = 416
+  ClientWidth = 801
+  Color = clBtnFace
+  DefaultMonitor = dmDesktop
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -13
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  FormStyle = fsStayOnTop
+  OldCreateOrder = False
+  PixelsPerInch = 110
+  TextHeight = 16
+  object PasLibVlcPlayer1: TPasLibVlcPlayer
+    Left = 0
+    Top = 0
+    Width = 801
+    Height = 416
+    Margins.Left = 4
+    Margins.Top = 4
+    Margins.Right = 4
+    Margins.Bottom = 4
+    Align = alClient
+    OnMouseDown = PasLibVlcPlayer1MouseDown
+    VideoOutput = voOpenGl
+    AudioOutput = aoDummy
+    SnapShotFmt = 'png'
+    OnMediaPlayerBuffering = PasLibVlcPlayer1MediaPlayerBuffering
+    OnMediaPlayerEndReached = PasLibVlcPlayer1MediaPlayerEndReached
+    OnMediaPlayerTimeChanged = PasLibVlcPlayer1MediaPlayerTimeChanged
+    OnMediaPlayerLengthChanged = PasLibVlcPlayer1MediaPlayerLengthChanged
+  end
+  object PasLibVlcMediaList1: TPasLibVlcMediaList
+    Player = PasLibVlcPlayer1
+    OnItemAdded = PasLibVlcMediaList1ItemAdded
+    OnItemDeleted = PasLibVlcMediaList1ItemDeleted
+    OnNextItemSet = PasLibVlcMediaList1NextItemSet
+    Left = 20
+    Top = 20
+  end
+end
